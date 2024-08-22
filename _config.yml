@@ -18,22 +18,26 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Keunhong Park
-name: Keunhong Park
-position: Research Scientist 
-email: dp9jalxhq@mozmail.com
+title: Estelle Zheng
+name: Estelle Zheng
+position: Industrial Ph.D Candidate in Computer Science 
+email: estelle.zheng@loria.fr
 description: >-
-  I am a researcher in 3D computer vision, generative models, and computer graphics. I was previously a research scientist at [Google](https://ai.google/research/).
+  I am a first year Ph.D candidate in the SYNALP team at [LORIA](https://www.loria.fr/en/) under the supervision of [Christophe Cerisara](https://members.loria.fr/CCerisara/). 
+  Prior to LORIA, I received my Master's degree in Applied Mathematics for Data Science from [Institut Polytechnique de Paris]](https://www.ip-paris.fr/en).
 
-  I received my Ph.D from the [University of Washington](https://grail.cs.washington.edu/) in 2021 where I was advised by
-  [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
+  My research interests lies in Natural Language Processing (NLP) and more specifically in Large Language Models (LLM). 
+  My long-term research goal is to build reliable AI systems to assist and enhance decision-making across various domains.
+  Motivated by this goal, my current research focuses on LLM Agents and a focus on the planning stage.
+miscellaneous: >-
+  I am an enthusiastic language learner and in my spare time, I do some personal translation of Chinese books to English. I am also a huge fan of Japanese animation and litterature, but also of Korean one!
+  I like video games which is the main reason why I do not have a lot of free time.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
-github_username: keunhong
-google_scholar: HVZb-5oAAAAJ
-google_analytics: G-MFWSBLRKG0
+url: "https://zhngstl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: KeunhongP
+github_username: zhngstl
+#google_scholar: HVZb-5oAAAAJ
+#google_analytics: G-MFWSBLRKG0
 
 # Build settings
 theme: minima

@@ -91,7 +91,7 @@ layout: null
   <section class="section">
     <div class="container is-max-desktop">
 
-      <!--<h2 class="title is-3">News</h2>
+      <h2 class="title is-3">News</h2>
       <div class="content">
         <ul>
           {% for news in site.data.news %}
@@ -100,7 +100,7 @@ layout: null
           </li>
           {% endfor %}
         </ul>
-      </div>-->
+      </div>
 
       <h2 class="title is-3">Publications</h2>
 
@@ -143,7 +143,9 @@ layout: null
               {% endfor %}
             </div>
             <p class="publication-description">{{ publication.description }}</p>
+          
             <!-- Publication Links. -->
+            
             <div class="publication-links buttons field has-addons">
               <a class="external-link button is-small is-ghost" href="{{ publication.project_page }}">
                 <span class="icon"><i class="fas fa-globe-asia"></i></span>
@@ -164,11 +166,18 @@ layout: null
               </a>
               {% endif %}
             </div>
+            
             <!--/ Publication Links. -->
           </div>
         </div>
       </div>
       {% endfor %}
+
+      <h2 class="title is-3">Miscellaneous</h2>
+      <div class="content has-text-justified">
+        {{ site.miscellaneous | markdownify }}
+      </div>
+
     </div>
   </section>
 
@@ -190,7 +199,7 @@ layout: null
         <div class="column is-8">
           <div class="content">
             <p>
-              Feel free to <a href="https://github.com/keunhong/keunhong.github.io">borrow this template</a>.
+              This webpage is built on <a href="https://github.com/keunhong/keunhong.github.io"> template</a>.
             </p>
           </div>
         </div>

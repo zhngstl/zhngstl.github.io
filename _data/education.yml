@@ -1,11 +1,15 @@
-- name: University of Washington 
+- name: LORIA
   description: >-
-    Ph. D in Computer Science, advised by <a href="https://smseitz.com">Steven M. Seitz</a> and
-    <a href="https://homes.cs.washington.edu/~ali/">Ali Farhadi</a>.<br />
-    Supported by Samsung Scholarship 2015-2020 ($50,000/year for 5 years)
-  dates: Fall 2015 - Spring 2022
+    Industrial Ph. D Candidate in Computer Science, advised by <a href="https://members.loria.fr/CCerisara/">Christophe Cerisara</a>.
+    Collaborating with [Alcatel-Lucent Enterprise](https://www.al-enterprise.com/).
+  dates: May 2024 - Present
 
-- name: University of Illinois at Urbana-Champaign
+- name: Institut Polytechnique de Paris
   description: >-
-    B.S. in Computer Science, advised by <a href="https://dhoiem.cs.illinois.edu/">Derek Hoiem</a>.
-  dates: Fall 2009 - Spring 2013
+    MSc in Applied Mathematics for Data Science.
+  dates: Sept 2021 - Oct 2023
+
+- name: Sorbonne University
+  description: >-
+    B.S. in Electrical Engineering with an Minor in Mandarin Chinese.
+  dates: Sept 2018 - Aug 2021
